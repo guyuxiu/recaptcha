@@ -7,7 +7,7 @@ This requires you to have a Cloudflare Workers account and have the Workers CLI 
 
 1. Deploy it 
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/HR/recaptcha-worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/guyuxiu/recaptcha/)
 
 2. Set your [reCAPTCHA secret key](https://developers.google.com/recaptcha/intro) environment variable
 
